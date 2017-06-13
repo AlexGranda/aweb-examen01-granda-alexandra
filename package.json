@@ -1,0 +1,14 @@
+{
+  "name": "aweb-examen-01-granda-alexandra",
+  "version": "1.0.0",
+  "description": "Examen del primer bimestre de aplicaciones web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "examen"
+  ],
+  "author": "Alexandra Granda",
+  "license": "MIT"
+}
