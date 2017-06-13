@@ -1,0 +1,19 @@
+#header {
+    background: url("images/facu.jpg") no-repeat center;
+    height: 300px;
+    width: 100%;
+    padding: 0px;
+}
+
+#info {
+    padding: 4em;
+}
+
+.card {
+    width: 20rem;
+    margin: 3em;
+}
+
+.card-img-top {
+    height: 137px;
+}
