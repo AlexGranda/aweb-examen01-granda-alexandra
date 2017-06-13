@@ -10,5 +10,16 @@
     "examen"
   ],
   "author": "Alexandra Granda",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rainini1/aweb-examen01-granda-alexandra.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rainini1/aweb-examen01-granda-alexandra/issues"
+  },
+  "homepage": "https://github.com/Rainini1/aweb-examen01-granda-alexandra#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
