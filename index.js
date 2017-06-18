@@ -12,7 +12,7 @@ app.get('/bienvenido', function (req, res) {
 
 //Ruta info personal
 
-app.post('/informacion', function (req, res) {
+app.post('/Informacion', function (req, res) {
     fs.readFile('Informacion.txt', 'utf-8', (err,data) => {
         if(err) throw (err)
         console.log(data)
